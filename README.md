@@ -20,6 +20,7 @@ Problem_1_3:
 
 Q: Is there any co-relation between short description, long description and ranking? Does the placement of keyword (for example - using a keyword in the first 10 words - have any co-relation with the ranking)?
 
+If we look at the plot, most of the Semantic Sentiment score falls from 50% above. While semantic score is 90and above, rank is less. If symantic score is about 60, rank is high
 Keywords should be strategically placed throughout content to make it clear both to the search engines and the users what topics the content will cover. This means that keywords should be used naturally throughout the content, but they should also be included in the headings and tags
 
 Q: Does APP ID (Also known as package name) play any role in ranking?  
